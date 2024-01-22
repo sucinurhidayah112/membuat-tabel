@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+<tittle> MEMBUAT TABEL HTML</tittle>
+</head>
+<body>
+	<h5>1.LIST MENGGUNAKAN OL</h5>
+	<table>
+		<tr>
+			<td>A</td>
+			<td>B</td>
+		</tr>
+		<tr>
+			<td>C</td>
+			<td>D</td>
+		</tr>
+		</table>	
